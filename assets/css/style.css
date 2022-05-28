@@ -1,0 +1,23 @@
+a {
+    font-size: 30px;
+    text-decoration: none !important;
+}
+
+#nav {
+    padding: 10px;
+    justify-content: center;
+}
+
+#row {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+
+#cardDisplay {
+    display: none;
+}
+
+.container {
+    padding-bottom: 70px;
+}

@@ -7,8 +7,6 @@ A weather dashboard that will run in the browser and feature dynamically updated
 ## Site URL
 https://shookspear.github.io/weather-one/
 
-## Screenshot
-![Weather One](assets/images/screenshot.png)
 
 ## Built With
 * HTML
